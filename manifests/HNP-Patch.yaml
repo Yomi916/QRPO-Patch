@@ -1,0 +1,21 @@
+Versions:
+- Version: 1.0.0
+  Hash: A1B2C3D4E5F60111223344556677889900AABBCCDDEEFF001122334455667788
+  Size: 10485760
+  PublishedAt: 2025-01-10T12:00:00.0000000+00:00
+  Urls:
+  - https://example.com/patches/1.0.0.zip
+  InstallPath: .
+  Changelog:
+  - Initial release
+  - Core systems implemented
+  - Basic UI introduced
+- Version: 1.0.1
+  Hash: 0D1FE691324BEFC9071199A40D0E535A27DE4FAE0DF0680CBBA80354111AEE2D
+  Size: 1881648
+  PublishedAt: 2026-05-10T03:00:31.7497602Z
+  Urls:
+  - https://files.catbox.moe/w0f9fy.zip
+  InstallPath: .
+  Changelog:
+  - First Test
