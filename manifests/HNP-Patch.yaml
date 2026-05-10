@@ -4,45 +4,16 @@ Versions:
   Size: 10485760
   PublishedAt: 2025-01-10T12:00:00.0000000+00:00
   Urls:
-  - https://example.com/patches/1.0.0.zip
+  - https://127.0.0.1/patches/1.0.0.zip
   InstallPath: .
   Changelog:
-  - Initial release
-  - Core systems implemented
-  - Basic UI introduced
+  - Initial release test
 - Version: 1.0.1
-  Hash: 0D1FE691324BEFC9071199A40D0E535A27DE4FAE0DF0680CBBA80354111AEE2D
-  Size: 1881648
-  PublishedAt: 2026-05-10T03:00:31.7497602Z
+  Hash: 4B2A7528A3BB76021B5210C4250F7FF82D210A3FDC64313F585EB5A13CFDDA8E
+  Size: 26554418
+  PublishedAt: 2026-05-10T19:30:18.1028121Z
   Urls:
-  - https://files.catbox.moe/w0f9fy.zip
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260510_192831_410.zip
   InstallPath: .
   Changelog:
-  - First Test
-- Version: 1.0.2
-  Hash: 0D1FE691324BEFC9071199A40D0E535A27DE4FAE0DF0680CBBA80354111AEE2D
-  Size: 1881648
-  PublishedAt: 2026-05-10T15:55:48.5347261Z
-  Urls:
-  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260510_155439_355.zip
-  InstallPath: .
-  Changelog:
-  - Test 2
-- Version: 1.0.3
-  Hash: 0D1FE691324BEFC9071199A40D0E535A27DE4FAE0DF0680CBBA80354111AEE2D
-  Size: 1881648
-  PublishedAt: 2026-05-10T16:06:14.4643635Z
-  Urls:
-  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260510_155439_355v2.zip
-  InstallPath: .
-  Changelog:
-  - TEST 3
-- Version: 1.0.4
-  Hash: C35CB1F424F95435D269A842DF6E43A482168F03C64E9C5CB6054877509F05DD
-  Size: 1839097
-  PublishedAt: 2026-05-10T18:25:58.8154956Z
-  Urls:
-  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260510_182432_332.zip
-  InstallPath: .
-  Changelog:
-  - Update 4 for new patcher
+  - Updated with the 3 main routes.
