@@ -16,10 +16,15 @@ Versions:
   PublishedAt: 2026-05-10T03:00:31.7497602Z
   Urls:
   - https://files.catbox.moe/w0f9fy.zip
-  - https://github.com/Yomi916/QRPO-Patch/releases/download/HNP-Patch/patch_20260510_025927_473.zip
   InstallPath: .
   Changelog:
   - First Test
-
-
-
+- Version: 1.0.2
+  Hash: 0D1FE691324BEFC9071199A40D0E535A27DE4FAE0DF0680CBBA80354111AEE2D
+  Size: 1881648
+  PublishedAt: 2026-05-10T15:55:48.5347261Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260510_155439_355.zip
+  InstallPath: .
+  Changelog:
+  - Test 2
