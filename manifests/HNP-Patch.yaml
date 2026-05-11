@@ -17,3 +17,12 @@ Versions:
   InstallPath: .
   Changelog:
   - Updated with the 3 main routes.
+- Version: 1.0.2
+  Hash: BD2B2A5E9A7418CC1A9F40928E356C3D7B3B4E136DAA6906DC52F7A7D71FCDC8
+  Size: 26558680
+  PublishedAt: 2026-05-11T17:27:24.8958604Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260511_172451_130.zip
+  InstallPath: .
+  Changelog:
+  - Reports fixed and updates
