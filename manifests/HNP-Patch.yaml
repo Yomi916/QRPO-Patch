@@ -26,3 +26,12 @@ Versions:
   InstallPath: .
   Changelog:
   - Reports fixed and updates
+- Version: 1.0.3
+  Hash: 10A9361998CC4BFA6D0E6AECB0A974A7CC8D1F1BC8FB258D11787C9591B506CD
+  Size: 26594477
+  PublishedAt: 2026-05-12T14:35:00.9353933Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260512_143334_337.zip
+  InstallPath: .
+  Changelog:
+  - Updates
