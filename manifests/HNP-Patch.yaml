@@ -35,3 +35,12 @@ Versions:
   InstallPath: .
   Changelog:
   - Updates
+- Version: 1.0.4
+  Hash: 23A798FC3DDB773A997F4AB18CFCDFF2F898AD96C5ACFC77F407FAFD9D8C50BC
+  Size: 26611052
+  PublishedAt: 2026-05-16T22:38:05.4370085Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260516_223631_731.zip
+  InstallPath: .
+  Changelog:
+  - New Updates
