@@ -44,3 +44,12 @@ Versions:
   InstallPath: .
   Changelog:
   - New Updates
+- Version: 1.0.5
+  Hash: 9AD26B94FAB6BAC53340621CB5F9BB2D907BC8F27FBC1E711DD951A278185033
+  Size: 26621617
+  PublishedAt: 2026-05-17T00:49:53.8174520Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260517_004729_587.zip
+  InstallPath: .
+  Changelog:
+  - Updated Names and excel pretty much done
