@@ -53,7 +53,7 @@ Versions:
   InstallPath: .
   Changelog:
   - Updated Names and excel pretty much done
-- Version: 1.0.6
+- Version: 1.0.5
   Hash: 920A73293112E94B441AC4BEE9699CF2DB1BA02439952441514FB9FE70CB5926
   Size: 26638081
   PublishedAt: 2026-06-01T15:32:30.0409285Z
@@ -62,3 +62,12 @@ Versions:
   InstallPath: .
   Changelog:
   - Pacol change and bug fixes
+- Version: 1.0.6
+  Hash: CC64D101559549FA857378E5C6918F48403DAFE08F1803B9254186FD6D1B1B62
+  Size: 26638080
+  PublishedAt: 2026-06-01T15:39:53.0740150Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260601_153822_577.zip
+  InstallPath: .
+  Changelog:
+  - Version update
