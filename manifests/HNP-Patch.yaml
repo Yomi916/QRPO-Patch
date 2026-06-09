@@ -71,3 +71,12 @@ Versions:
   InstallPath: .
   Changelog:
   - Bugfixes
+- Version: 1.0.8
+  Hash: 381ED3122FADC2368D8CF594E008EC9DF3229A3154FB1BFCF78F367E7283245B
+  Size: 26630550
+  PublishedAt: 2026-06-09T17:03:57.5133265Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260609_170253_708.zip
+  InstallPath: .
+  Changelog:
+  - First playtest complete
