@@ -80,3 +80,12 @@ Versions:
   InstallPath: .
   Changelog:
   - First playtest complete
+- Version: 1.0.9
+  Hash: E03BBB806A14B3BD655A2150A1A28081F24E52A5154121AA0593CA6F07D54849
+  Size: 26472041
+  PublishedAt: 2026-06-10T18:59:09.4610755Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260610_185759_738.zip
+  InstallPath: .
+  Changelog:
+  - Big update, lots of errors fixed.
