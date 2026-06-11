@@ -89,3 +89,12 @@ Versions:
   InstallPath: .
   Changelog:
   - Big update, lots of errors fixed.
+- Version: 1.0.10
+  Hash: D14AF7B306293754A6D786C0C8B257C710A135C515F6BA53336B1DD3044DDB27
+  Size: 26357733
+  PublishedAt: 2026-06-11T23:54:38.7028114Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260611_235327_880.zip
+  InstallPath: .
+  Changelog:
+  - Updates and scenario title changes.
