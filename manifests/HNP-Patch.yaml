@@ -108,3 +108,23 @@ Versions:
   InstallPath: .
   Changelog:
   - HENPRI Improvement Patch V1.0 Release
+- Version: 1.1.1
+  Hash: 35FB59D166F50B38C274BAE3B9EE3F5D70A9B25F92CEDDCC97AE42E98E83F629
+  Size: 26304763
+  PublishedAt: 2026-07-08T12:43:32.0335443Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260708_123934_108.zip
+  - https://files.catbox.moe/2ngy2b.zip
+  InstallPath: .
+  Changelog:
+  - Release Version
+- Version: 1.1.1
+  Hash: 35FB59D166F50B38C274BAE3B9EE3F5D70A9B25F92CEDDCC97AE42E98E83F629
+  Size: 26304763
+  PublishedAt: 2026-07-08T12:44:53.7589448Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260708_123934_108.zip
+  - https://files.catbox.moe/2ngy2b.zip
+  InstallPath: .
+  Changelog:
+  - Release Version
