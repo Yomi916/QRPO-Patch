@@ -4,8 +4,6 @@ This repository contains update manifests for visual novel patches and related r
 
 ---
 
-# Current Manifests
-
 ## Hentai Prison Improvement Patch
 
 ---

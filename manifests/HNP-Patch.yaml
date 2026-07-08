@@ -98,3 +98,13 @@ Versions:
   InstallPath: .
   Changelog:
   - Updates and scenario title changes.
+- Version: 1.1.0
+  Hash: 0F6B90F40D4C1E219A974444176DE702DF6D0931DFDD9967C5B6657DB8D25CCF
+  Size: 26332604
+  PublishedAt: 2026-07-08T00:28:31.7631294Z
+  Urls:
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260708_001711_523.zip
+  - https://files.catbox.moe/tv9m5o.zip
+  InstallPath: .
+  Changelog:
+  - HENPRI Improvement Patch V1.0 Release
