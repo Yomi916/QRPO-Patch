@@ -99,12 +99,12 @@ Versions:
   Changelog:
   - Updates and scenario title changes.
 - Version: 1.1.0
-  Hash: 0F6B90F40D4C1E219A974444176DE702DF6D0931DFDD9967C5B6657DB8D25CCF
-  Size: 26332604
-  PublishedAt: 2026-07-08T00:28:31.7631294Z
+  Hash: 35FB59D166F50B38C274BAE3B9EE3F5D70A9B25F92CEDDCC97AE42E98E83F629
+  Size: 26304763
+  PublishedAt: 2026-07-08T13:06:11.0570089Z
   Urls:
-  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260708_123934_108.zip
+  - https://file.garden/agACHQeEOEJL_my-/HNP-Patch/patch_20260708_130430_937.zip
   - https://files.catbox.moe/2ngy2b.zip
   InstallPath: .
   Changelog:
-  - HENPRI Improvement Patch V1.0 Release
+  - Henpri Improvement Patch - Release Version
